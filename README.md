@@ -7,5 +7,5 @@ The repository has three folders; one for the .rpres files, one for the images u
 
 # Acknowledgment
 
-I thank Professor John McCauley for the opportunity to work together in this course. As well as, Eric Dunford for providing a first template of the 
-.rpres file. 
+I thank Professor John McCauley for the opportunity to work together in this course. As well as, Eric Dunford for providing a first template I used in some of these 
+.rpres files. 

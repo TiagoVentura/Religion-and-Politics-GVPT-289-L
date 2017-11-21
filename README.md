@@ -1,0 +1,10 @@
+# Religion-and-Politics-GVPT-289-L
+This repository contains the slides for the undergraduate course Religions, Beliefs, and World Affairs at University of Maryland, College Park. The slides were done using R presentation in RStudio. 
+
+The course was ministered by Professor John McCauley. I worked as a teaching assistant responsible for three section of twenty students each. 
+
+The repository has one folder for each presentation, as well as a folder for a template I built for the Rpres file. 
+# Acknowledgment
+
+I would like to thank you Professor John McCauley for the opportunity to work together in this course. As well as, Eric Dunford for providing a first template I used in some of these 
+.rpres files. 
